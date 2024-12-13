@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Shane Gleason. Pronouns: He/Him
 
-- 👀 I am currently searching for data analyst and
-  database administration roles near Carlisle, PA. 👀
+- 👀 I'll be relocating soon, and am currently searching for data analyst and
+  database administration roles near Mt Gretna, PA. 👀
   
 - 📫 You can reach me at gleasonshane32@gmail.com or
   reach out over LinkedIn - https://www.linkedin.com/in/shane-gleason/

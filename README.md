@@ -8,3 +8,5 @@
   
 - SKILLS: SQL, R, Python, Excel
 - EDUCATION: B.S. in Management Information Systems, Minors in Computer Science and Cybersecurity.
+
+- I've recently been introduced to Tableau! https://public.tableau.com/app/profile/shane.gleason/vizzes
